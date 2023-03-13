@@ -17,3 +17,4 @@ var twoSum = function(nums, target) {
    	mp[nums[i]] = i
    }
 };
+
